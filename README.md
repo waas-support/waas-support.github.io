@@ -1,2 +1,4 @@
-# waas-support.github.io
-WAAS Support Github Pages Site
+# Change the files
+
+Adding new pages is easy
+
